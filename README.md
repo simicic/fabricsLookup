@@ -44,6 +44,7 @@ Run app:
 
 - return fabric sustainability rating
 - API authentication
+- API versioning
 - dockerize
 
 #### Notes
